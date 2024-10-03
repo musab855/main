@@ -4,5 +4,5 @@
 /**
  * 
  */
-module test9 {
+module Bruv {
 }
